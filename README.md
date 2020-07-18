@@ -6,13 +6,14 @@
 ### 👋 Hi, It's Dreace
 Love programming and be happy to make friends.
 
-
+![](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=fff)
 ![](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript)
 ![](https://img.shields.io/badge/-React-000000?style=flat-square&logo=React&logoColor=fff)
 ![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
+
 
 ### 😊 About Me
 - ⌨️ Prefer Python and Golang
