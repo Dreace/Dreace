@@ -1,6 +1,7 @@
 
 <a href="#">
 <img align="right" src="https://github-readme-stats-git-master.dreace.vercel.app/api?icon_color=586069&hide_border=true&title_color=a0a9af&username=dreace&show_icons=true">
+<img align="right" src="https://github-readme-stats-git-master.dreace.vercel.app/api/top-langs/?username=dreace&layout=compact&icon_color=586069&hide_border=true&title_color=a0a9af">
 </a>
 
 ### 👋 Hi, It's Dreace
